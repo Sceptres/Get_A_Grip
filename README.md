@@ -1,4 +1,4 @@
-# P2 QArm Code
+# Get A Grip
 
 The code for the second 1P13A project. 
 <br>
